@@ -11,6 +11,13 @@
       <sparkle:version>202611162353</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+What's new since the last Mac download (0.1.0, November 6):
+
+- Books: Review, Reconcile and month close, Reports, Chart of accounts, Rules, and Settings › Books. Review shows its first lines at once.
+- Banks: the bank accounts you connected in SRG+ Connect show in Finance, each with its bank's own logo. Settings › Banks lists them, with a Privacy Policy link.
+- Today: credit card due dates and minimum payments.
+]]></description>
       <enclosure url="https://github.com/srgplus/srgplus-finance-macos/releases/latest/download/SRG-Plus-Finance.dmg" type="application/octet-stream" sparkle:edSignature="fBeTQEMxaxmgyqIzho3mwQmMEQZbea6lZRLD/uLBC0JVNNkcH0D/QXNyzD8akwTqNq5X+X62Tz+5Xxm9KLgVBQ==" length="10132821" />
     </item>
     <item>
