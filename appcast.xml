@@ -6,6 +6,21 @@
     <description>Updates of SRG+ Finance for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.0 (202611171917)</title>
+      <pubDate>Tue, 17 Nov 2026 19:20:12 +0000</pubDate>
+      <sparkle:version>202611171917</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+**New: Subscriptions and Calendar**
+
+- **Subscriptions**: every payment that repeats, in one list. Card charges are checked against the bank by themselves: paid, declined (and how many times), not seen, or a higher price. For the ones you pay yourself (rent, loans), a bill is made a few days before the date and goes to approval.
+- **Found in the bank**: charges that repeat but are not on the list yet. Add one in a click, or hide it.
+- **Calendar**: every date with money on it (subscriptions, bills, invoices, card due dates) by month, week or day, with the month's money in and out. You can also see these dates in Google or Apple Calendar through a private address, and turn it off at any time.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-finance-macos/releases/latest/download/SRG-Plus-Finance.dmg" type="application/octet-stream" sparkle:edSignature="8D65OccLfop9iz9CyLPlZtDSiLipHqI0B6cfFLKpArqWHLFKE/fVbqbdwjqbugUEH2wUSxgU4Ki1hrDYEEQHCg==" length="12070791" />
+    </item>
+    <item>
       <title>0.1.0 (202611162353)</title>
       <pubDate>Mon, 16 Nov 2026 23:56:05 +0000</pubDate>
       <sparkle:version>202611162353</sparkle:version>
