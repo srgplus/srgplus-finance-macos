@@ -6,6 +6,20 @@
     <description>Updates of SRG+ Finance for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.0 (202611182128)</title>
+      <pubDate>Wed, 18 Nov 2026 21:32:09 +0000</pubDate>
+      <sparkle:version>202611182128</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Updates install by themselves.** The app checks every hour and installs a new version when you quit it. Opened from the disk image or Downloads, it first offers to move itself into Applications, where updates can reach it.
+- **Directory** with Customers, Contractors and Vendors apart, vendor logos, and every subscription paid to a vendor.
+- Click a logo to change it.
+- Subscriptions no longer closes the app when you scroll.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-finance-macos/releases/latest/download/SRG-Plus-Finance.dmg" type="application/octet-stream" sparkle:edSignature="1DS/h/wlIaQe4XdhoP7GFKc3Gi18sUzVGiuGd1NGSV1Vr7HcdHqlTb47PMgQtFeGr+3V6+9HCqaZO9v0H0g9Cw==" length="12434839" />
+    </item>
+    <item>
       <title>0.1.0 (202611171917)</title>
       <pubDate>Tue, 17 Nov 2026 19:20:12 +0000</pubDate>
       <sparkle:version>202611171917</sparkle:version>
