@@ -6,6 +6,19 @@
     <description>Updates of SRG+ Finance for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.0 (202611190912)</title>
+      <pubDate>Thu, 19 Nov 2026 09:15:54 +0000</pubDate>
+      <sparkle:version>202611190912</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- Subscriptions: a payment plan can now have a last date. In New subscription or Edit, set **Ends**: Never, After a number of payments, or On a date.
+- **Charges** shows every payment still ahead up to the last one, and **Details** says how many are left and how much.
+- When a plan's last payment is done, it moves to Canceled and says **Ended**.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-finance-macos/releases/latest/download/SRG-Plus-Finance.dmg" type="application/octet-stream" sparkle:edSignature="S8xV7DfPipX8pcvrE2dff4Bs1FZ62My3cDOuYh+8XxyY1EyTUOnMJwMkaFyds26qBuEIz3dkyQkl2FmP101qCA==" length="12557155" />
+    </item>
+    <item>
       <title>0.1.0 (202611182128)</title>
       <pubDate>Wed, 18 Nov 2026 21:32:09 +0000</pubDate>
       <sparkle:version>202611182128</sparkle:version>
