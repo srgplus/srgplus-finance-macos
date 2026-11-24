@@ -6,6 +6,19 @@
     <description>Updates of SRG+ Finance for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.0 (202611240929)</title>
+      <pubDate>Tue, 24 Nov 2026 09:34:29 +0000</pubDate>
+      <sparkle:version>202611240929</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Sales in Analytics.** A second group of tiles under the money ones, read from your own Stripe through SRG+ Connect: New clients (and the ones who came back), Sales (plans and one-time, refunds taken out), Recurring (a month and a year, and what changed) and the Next 12 months.
+- **W in the period switch:** the last seven days.
+- No Stripe yet? The Sales tile says how to connect it in SRG+ Connect.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-finance-macos/releases/latest/download/SRG-Plus-Finance.dmg" type="application/octet-stream" sparkle:edSignature="CSbrAOTfa0Ae1QQK+7hFU2Q/103528XJQXQA0HgY15gJsvwNmAjskHJFJO7gxe6vbCFJMV36Gi6BbRl/kB05Bw==" length="13023987" />
+    </item>
+    <item>
       <title>0.1.0 (202611211032)</title>
       <pubDate>Sat, 21 Nov 2026 10:34:21 +0000</pubDate>
       <sparkle:version>202611211032</sparkle:version>
