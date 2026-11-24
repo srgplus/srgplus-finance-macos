@@ -6,6 +6,19 @@
     <description>Updates of SRG+ Finance for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.0 (202611241756)</title>
+      <pubDate>Tue, 24 Nov 2026 17:59:55 +0000</pubDate>
+      <sparkle:version>202611241756</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Analytics lists follow the tile.** Money in shows who pays you most, Money out who you pay and what for, Owed to us who owes you most.
+- **Analytics keeps its numbers while it refreshes** and reads them first, so no more grey rows for seconds after a refresh or a company switch.
+- **Settings: your SRG+ Account and the Workspace page** on top, the same as in SRG+ CRM.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-finance-macos/releases/latest/download/SRG-Plus-Finance.dmg" type="application/octet-stream" sparkle:edSignature="HP8IS5AtKgbnidWc97LqW8mh8DlDB8PbZQ+ONd33TEVJu0rhvUv1ToIcvRTUEu1pysvndq8wJgWjSUFe9GlcBQ==" length="13562426" />
+    </item>
+    <item>
       <title>0.1.0 (202611240929)</title>
       <pubDate>Tue, 24 Nov 2026 09:34:29 +0000</pubDate>
       <sparkle:version>202611240929</sparkle:version>
